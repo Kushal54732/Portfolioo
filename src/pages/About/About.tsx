@@ -6,7 +6,7 @@ const About: React.FC = () => {
     <section className="about-section">
       <h2 className="about-title">About Me</h2>
       <p className="about-text">
-        I'm <strong>Varunkumar</strong>, an <strong>AI and Data Science Engineer</strong> passionate about building intelligent systems that improve lives. 
+        I'm <strong>Kushal</strong>, an <strong>AI and Data Science Engineer</strong> passionate about building intelligent systems that improve lives. 
         With a strong foundation in machine learning, full-stack web development, and data-driven applications, I enjoy solving real-world problems and contributing to innovative projects.
       </p>
       <p className="about-text">
