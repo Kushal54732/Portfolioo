@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
       bottom: 0,
       width: '100%'
     }}>
-      <p>&copy; {new Date().getFullYear()} Varunkumar. All rights reserved.</p>
+      <p>&copy; {new Date().getFullYear()} Kushal. All rights reserved.</p>
     </footer>
   );
 };
